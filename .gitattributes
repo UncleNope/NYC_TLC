@@ -1,0 +1,9 @@
+# Automatically detect text files
+* text=auto
+
+# Keep source and configuration files using LF
+*.py text eol=lf
+*.sql text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+.python-version text eol=lf
